@@ -1,0 +1,16 @@
+<RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="391dp"
+        android:layout_height="724dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <WebView
+
+            android:id="@+id/w1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
